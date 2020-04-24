@@ -1,4 +1,4 @@
-# Binary_sys_exoplanet
+# 3D Simulation of Exo-Planets orbits in binary systems
 Simulation of exoplanets in binary systems for Simulation course in Amirkabir University of Technology
 
 We simulated motion of an exoplanet around a binary system that has same mass stars with a circular orbit in three dimensions.
